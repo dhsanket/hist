@@ -1,0 +1,203 @@
+    1  python
+    2  curl http://storeapi-staging.aws-us-e1.blinkx/v1/fetches
+    3  ls
+    4  mkdr ingest
+    5  mkdir help
+    6  mkdir -help
+    7  mkdir --help
+    8  man mkdir
+    9  mkdir ingest
+   10  ls
+   11  cd help
+   12  cd ..
+   13  man rm
+   14  rm help
+   15  man rm
+   16  rm -r help
+   17  ls
+   18  cd ingest
+   19  git help
+   20  git clone https://sdeshpandeRhythmone@bitbucket.org/blinkxdev/ingestion.git
+   21  ls
+   22  cd ingestion/
+   23  ls
+   24  python setup.py install
+   25  sudo python setup.py install
+   26  ls
+   27  cd ingestapp/
+   28  ls
+   29  python temp/collect_fetchids.py 
+   30  cd ..
+   31  git status
+   32  cd ingestion/
+   33  git status
+   34  git pull 
+   35  python setup.py install
+   36  python temp/collect_fetchids.py 
+   37  ls
+   38  cd ingestapp/
+   39  python temp/collect_fetchids.py 
+   40  cd /home/users/fnode/b4ingest/ingest/ingestion/
+   41  git status
+   42  git branch
+   43  git remote -r
+   44  git branch -r
+   45  git pull origin master
+   46  cd /var/log/b4ingest/
+   47  ls
+   48  tail -f b4ingest.log 
+   49  cd /var/log/b4ingest/
+   50  ls
+   51  more b4ingest.log-20150629
+   52  cat b4ingest.log-20150629
+   53  less b4ingest.log-20150629
+   54  ls
+   55  tail -f b4ingest.log
+   56  less b4ingest.log
+   57  cd /home/users/fnode/b4ingest/ingest/ingestion/
+   58  ls
+   59  git status
+   60  git log
+   61  git branch
+   62  git fetch
+   63  logout
+   64  cd /home/users/fnode/b4ingest/ingest/ingestion/
+   65  ls
+   66  git status
+   67  git pull origin master
+   68  sudo git pull origin master
+   69  history
+   70  git log
+   71  python setup.py install 
+   72  sudo python setup.py install 
+   73  git status
+   74  git fetch
+   75  sudo git fetch
+   76  git status
+   77  ls
+   78  cd ingestapp/
+   79  ls
+   80  cat ingest.py 
+   81  clear
+   82  ls
+   83  cd temp/
+   84  ls
+   85  nano collect_fetchids.py 
+   86  ls
+   87  nano collect_fetchids.py 
+   88  ls
+   89  cd ..
+   90  ls
+   91  nano collect_fetchids.py 
+   92  la
+   93  cd temp/
+   94  ls
+   95  nano collect_fetchids.py
+   96  sudo nano collect_fetchids.py
+   97  ls
+   98  cd ..
+   99  python temp/collect_nondirectplay_fetchids.py 
+  100  sudo nano temp/collect_fetchids.py
+  101  sudo nano temp/collect_nondirectplay_fetchids.py
+  102  python temp/collect_nondirectplay_fetchids.py 
+  103  sudo nano temp/collect_nondirectplay_fetchids.py
+  104  clear
+  105  python temp/collect_nondirectplay_fetchids.py 
+  106  python ingest.py -i=56489155
+  107  ls
+  108  less ingestcementapp.py
+  109  clear
+  110  sudo python ingest.py -i=56489155
+  111  cd /var/log/b4ingest/
+  112  ls
+  113  tail -f b4ingest.log-20150630
+  114  tail help
+  115  tail -help
+  116  tail --help
+  117  clear
+  118  ls
+  119  less b4ingest.log-20150630
+  120  less b4ingest.log
+  121  cd /var/log/b4ingest/
+  122  ls
+  123  tail -f b4ingest.log
+  124  clear
+  125  tail -f b4ingest.log
+  126  cd /var/log/b4ingest/
+  127  ls
+  128  tail b4ingest.log
+  129  ls -l
+  130  tail -f b4ingest.log
+  131  cd /var/log/b4ingest/
+  132  ls
+  133  tail -f b4ingest.log
+  134  clear
+  135  tail -f b4ingest.log
+  136  cd /var/log/b4ingest/
+  137  ls
+  138  tail -f b4ingest.log
+  139  cd /var/log/b4ingest/
+  140  ls
+  141  tail b4ingest.log
+  142  less b4ingest.log
+  143  cd /var/log/b4ingest/
+  144  ls
+  145  tail -f b4ingest.log
+  146  cd /var/log/b4ingest/
+  147  ls
+  148  cat b4ingest.log | grep "successfully up"
+  149  tail -f b4ingest.log
+  150  cd /home/users/fnode/b4ingest/ingest/ingestion/
+  151  cd ingestapp/
+  152  sudo python ingest.py 
+  153  pip install isodate
+  154  sudo python ingest.py
+  155  sudo pip install isodate
+  156  sudo python ingest.py
+  157  sudo python temp/collect_fetchids.py 
+  158  cd /var/log/b4ingest/
+  159  ls
+  160  tail -f b4ingest.log
+  161  sdeshpande
+  162  cd /home/users/fnode/b4ingest/ingest/ingestion/
+  163  sudo git fetch --all
+  164  sudo git status
+  165  sudo git pull origin master
+  166  sudo python setup.py install
+  167  cd ingestapp/
+  168  ls
+  169  cd /var/log/b4ingest/
+  170  ls
+  171  tail -f b4ingest.log
+  172  ls
+  173  cd apib4/
+  174  ls
+  175  cd /
+  176  ls
+  177  cdg
+  178  j -h
+  179  j --help
+  180  j
+  181  fzf
+  182  find ingesto
+  183  find ingest
+  184  find ingest.py
+  185  find b4ingest
+  186  history
+  187  cd ~/
+  188  ls
+  189  cd apib4/
+  190  ls
+  191  cd ..
+  192  ls
+  193  mkdr repos
+  194  mkdir repos
+  195  ls
+  196  cd repos/
+  197  mkdir BashHistory
+  198  cd BashHistory/
+  199  ls
+  200  git init
+  201  touch history.txt
+  202  ls
+  203  history >> history.txt 
